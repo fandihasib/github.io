@@ -6,7 +6,7 @@
     "organization": "International Conference, Uzbekistan",
     "role": "Guest Speaker",
     "summary": "Presented a multidisciplinary teaching approach connecting language instruction, journalism and public speaking as Indonesia's sole representative at the conference.",
-    "image": "assets/conference-uzbekistan-2024.jpg"
+   
   },
   {
     "id": "sulawesi-language-ambassador-2024",
@@ -15,7 +15,7 @@
     "organization": "Southeast Sulawesi Language Ambassador Selection",
     "role": "Guest Speaker",
     "summary": "Shared practical ideas on embracing challenges, building confidence and moving beyond familiar limits.",
-    "image": "assets/comfort-zone-session-2024.jpg"
+    
   },
   {
     "id": "jakarta-language-ambassador-2023",
@@ -24,7 +24,7 @@
     "organization": "DKI Jakarta Language Ambassador Selection",
     "role": "Public Speaking Trainer",
     "summary": "Trained finalists in delivery fundamentals, including intonation, pacing, pronunciation and advanced speaking techniques.",
-    "image": "assets/public-speaking-training-2023.jpg"
+    
   },
   {
     "id": "sulawesi-language-ambassador-2023",
@@ -33,7 +33,7 @@
     "organization": "Southeast Sulawesi Language Ambassador Selection",
     "role": "Trainer",
     "summary": "Led a session designed to strengthen critical thinking and help participants express ideas with structure and clarity.",
-    "image": "assets/language-ambassadors-2023.jpg"
+    
   },
   {
     "id": "cavite-virtual-classroom-2021",
@@ -42,7 +42,7 @@
     "organization": "Cavite State University, Philippines",
     "role": "Guest Lecturer",
     "summary": "Shared strategies for interactive virtual teaching, learner engagement and the effective use of digital tools with university lecturers.",
-    "image": "assets/virtual-classroom-2021.jpg"
+   
   },
   {
     "id": "language-proficiency-workshop-2021",
@@ -51,6 +51,6 @@
     "organization": "Language Development Agency, Ministry of Education and Culture, Indonesia",
     "role": "Guest Speaker & Paper Presenter",
     "summary": "Presented research on public-figure personas in television news and the internationalization of the Indonesian language.",
-    "image": "assets/language-proficiency-2021.jpg"
+   
   }
 ]
