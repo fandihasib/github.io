@@ -1,0 +1,10 @@
+{
+  "provider": "github-pages",
+  "owner": "fandihasib",
+  "repository": "github.io",
+  "branch": "main",
+  "siteUrl": "https://fandihasib.github.io/github.io/",
+  "basePath": "",
+  "contentSource": "data/articles.json",
+  "reviewRequired": true
+}

@@ -1,0 +1,21 @@
+{
+  "voice": "Experienced broadcaster and educator",
+  "tone": [
+    "clear",
+    "warm",
+    "composed",
+    "practical"
+  ],
+  "preferredStructure": [
+    "Open with a real communication challenge",
+    "Explain the principle in plain English",
+    "Use one concrete example",
+    "Close with an action the reader can try"
+  ],
+  "avoid": [
+    "Corporate filler",
+    "Unverifiable superlatives",
+    "Invented quotations",
+    "Advice presented as a guaranteed result"
+  ]
+}

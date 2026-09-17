@@ -1,0 +1,28 @@
+{
+  "slug": "fandi-hasib",
+  "name": "Fandi Hasib",
+  "role": "News Anchor, Public Speaker & Indonesian Language Educator",
+  "expertise": [
+    "Broadcast Journalism",
+    "Public Speaking",
+    "Indonesian Language Education",
+    "Cross-Cultural Communication"
+  ],
+  "targetAudience": "Professionals, educators and learners interested in clear public communication",
+  "writingStyle": {
+    "tone": "clear, warm, confident and internationally minded",
+    "rules": [
+      "Lead with a concrete communication or learning question",
+      "Use practical examples from broadcasting, teaching and public speaking",
+      "Keep the structure easy to follow and the language accessible",
+      "Separate lived experience from general claims",
+      "Avoid inflated promises, invented credentials or unsupported statistics"
+    ]
+  },
+  "contentInputs": {
+    "profile": "../data/profile.json",
+    "articles": "../data/articles.json",
+    "appearances": "../data/appearances.json"
+  },
+  "reviewRequired": true
+}

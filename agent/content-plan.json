@@ -1,0 +1,29 @@
+{
+  "name": "Fandi Hasib Editorial Plan",
+  "purpose": "Build a practical body of work around communication, broadcasting, language education and public speaking.",
+  "pillars": [
+    {
+      "name": "Public Speaking",
+      "description": "Preparation, delivery, voice, stagecraft and audience connection."
+    },
+    {
+      "name": "Broadcast Journalism",
+      "description": "Newsroom craft, interviewing, editorial judgment and on-air communication."
+    },
+    {
+      "name": "Language Education",
+      "description": "Indonesian language teaching, virtual classrooms and learning across cultures."
+    },
+    {
+      "name": "Cross-Cultural Communication",
+      "description": "Practical lessons from teaching and speaking in international settings."
+    }
+  ],
+  "cadence": "Two reviewed articles per month",
+  "qualityGate": [
+    "Every article must offer a practical takeaway",
+    "Every factual claim must be supportable",
+    "Personal experience must not be embellished",
+    "All articles require human review before publication"
+  ]
+}

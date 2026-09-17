@@ -1,0 +1,12 @@
+name: Reviewed article handoff
+
+on:
+  workflow_dispatch:
+
+jobs:
+  review-note:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Confirm publishing source
+        run: test -f data/articles.json && test -f agent/publish-config.json

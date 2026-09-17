@@ -1,0 +1,68 @@
+[
+  {
+    "id": "teaching-across-borders",
+    "title": "Teaching Across Borders: Begin with the Audience",
+    "category": "Language Education",
+    "summary": "Three practical principles for making language instruction clearer, more participatory and more relevant across cultures.",
+    "readTime": "4 min",
+    "date": "2026-09-10",
+    "tags": [
+      "Teaching",
+      "Cross-Cultural Communication"
+    ],
+    "body": {
+      "intro": "Teaching abroad makes one lesson immediate: the same material can land very differently in a new cultural setting. A strong class begins with the learners in front of us, not with a script that cannot change.",
+      "heading1": "Context creates relevance",
+      "section1": "Examples work best when they connect with situations learners already understand. A teacher can keep the objective consistent while adapting the story, pace and activity to the room.</p><p>Participation is also evidence. Questions, pauses and small-group discussion show where meaning is clear and where the lesson needs another route.",
+      "quote": "Good teaching does not simplify the learner. It makes the path into the subject easier to enter.",
+      "heading2": "Clarity is a shared process",
+      "section2": "Language learning grows through use. Give learners a reason to speak, a structure that supports them and feedback they can apply immediately. Digital tools can help, but the central task remains human: creating enough trust for practice.",
+      "close": "Start with the audience, invite participation early and make every correction useful for the next attempt."
+    },
+    "status": "published"
+  },
+  {
+    "id": "voice-before-volume",
+    "title": "Voice Before Volume: A Broadcaster's Guide to Public Speaking",
+    "category": "Public Speaking",
+    "summary": "A clear voice is built through intention, structure and pace long before it reaches a microphone or a stage.",
+    "readTime": "5 min",
+    "date": "2026-08-26",
+    "tags": [
+      "Delivery",
+      "Broadcasting"
+    ],
+    "body": {
+      "intro": "Public speaking is often treated as a performance skill. In practice, it begins as an editorial skill: deciding what matters, what the audience needs first and what should remain with them after the final sentence.",
+      "heading1": "Build the message before the delivery",
+      "section1": "A useful structure is simple: establish the situation, name the central idea and show why it matters. When the logic is clear, the speaker can focus on connection instead of trying to remember every word.</p><p>Preparation should include speaking aloud. The ear catches long sentences, weak transitions and difficult phrases that look acceptable on a page.",
+      "quote": "Confidence is easier to hear when the speaker knows exactly what the audience needs to understand.",
+      "heading2": "Use pace as punctuation",
+      "section2": "A pause gives an idea room to arrive. Variation in pace and emphasis guides attention, while steady breathing protects clarity. Volume has a role, but control is more persuasive than constant force.",
+      "close": "Write for the ear, rehearse for meaning and let the most important ideas breathe."
+    },
+    "status": "published"
+  },
+  {
+    "id": "newsroom-to-classroom",
+    "title": "From Newsroom to Classroom: Designing Information People Can Use",
+    "category": "Communication",
+    "summary": "Broadcast journalism and teaching share a discipline: selecting what matters and giving people a clear way through complexity.",
+    "readTime": "5 min",
+    "date": "2026-08-08",
+    "tags": [
+      "Journalism",
+      "Teaching"
+    ],
+    "body": {
+      "intro": "A newsroom asks what the public needs to know now. A classroom asks what learners need to understand next. Both environments reward preparation, accuracy and the ability to make complex material navigable.",
+      "heading1": "Lead with the essential question",
+      "section1": "Information becomes useful when it is organized around a real question. Before adding detail, define the decision, problem or idea that gives the material its purpose.</p><p>Then establish a sequence. Each section should prepare the audience for the one that follows, just as a strong news segment moves from context to evidence to consequence.",
+      "quote": "The goal is not to fit in more information. It is to make the important information easier to use.",
+      "heading2": "Make room for response",
+      "section2": "Communication is not complete at delivery. Questions, feedback and signs of confusion reveal whether the message worked. The best communicators treat that response as part of the work, not as an interruption.",
+      "close": "Choose the essential idea, build a visible path and listen closely to what comes back."
+    },
+    "status": "published"
+  }
+]
